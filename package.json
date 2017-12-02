@@ -1,0 +1,33 @@
+{
+  "name": "onenote",
+  "version": "1.0.0",
+  "description": "Aplicacion web para desktop de OneNote",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonMoraMora/OneNote-For-Desktop.git"
+  },
+  "keywords": [
+    "OneNote",
+    "Office",
+    "Microsoft",
+    "Note",
+    "Nota",
+    "Aplicacion",
+    "AppWeb",
+    "WebAplication"
+  ],
+  "author": "Jaison Jhair Mora Mora",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JasonMoraMora/OneNote-For-Desktop/issues"
+  },
+  "homepage": "https://github.com/JasonMoraMora/OneNote-For-Desktop#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
